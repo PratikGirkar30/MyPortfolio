@@ -826,6 +826,8 @@ section,
 }
 
 .portfolio .portfolio-content img {
+  width:340px;
+  height:200px;
   transition: 0.3s;
 }
 
